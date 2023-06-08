@@ -1,0 +1,9 @@
+1. ts.config json convert ts to js browser don't understand our ts 
+2. main ts to app component and so on main.ts is entry point
+3. package .json hold packages
+4. You can integrate boot stap in 3 ways 1. angular json file 2. style css import 3. index.html add link rel official
+5. @Injectable to make service
+6. Configure Rotuing yourself:
+  <base href="/"> in index.html
+  create app-routing-module.ts
+  7. Angular activate Route api to get value from url like path variable 
